@@ -1,1 +1,1 @@
-# linear_programming_medium
+# About the repo
